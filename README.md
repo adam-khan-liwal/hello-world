@@ -1,4 +1,3 @@
 # hello-world
-my first repo
 
-Heeeeey man
+This repo will contain all kinds of code.
